@@ -21,7 +21,7 @@ export default function Home() {
               src="/vercel.svg"
               alt="Vercel Logo"
               className="dark:invert"
-              width={100}
+              width={200}
               height={24}
               priority
             />
@@ -35,7 +35,7 @@ export default function Home() {
           src="/next.svg"
           alt="Next.js Logo"
           width={180}
-          height={37}
+          height={109}
           priority
         />
       </div>
